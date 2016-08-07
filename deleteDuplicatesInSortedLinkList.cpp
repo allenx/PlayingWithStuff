@@ -1,3 +1,5 @@
+//copyright Allen X
+
 #include<iostream>
 using namespace std;
 
