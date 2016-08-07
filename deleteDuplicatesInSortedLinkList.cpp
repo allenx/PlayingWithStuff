@@ -1,5 +1,6 @@
 //copyright Allen X
 //Sun 1:59 PM
+//I know this is like supercool right?
 
 #include<iostream>
 using namespace std;
