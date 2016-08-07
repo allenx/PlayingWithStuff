@@ -1,7 +1,7 @@
 //copyright Allen X
 //Sun 1:59 PM
 //I know this is like supercool right?
-//I should add another line
+//I should add another line of comment
 //
 #include<iostream>
 using namespace std;
