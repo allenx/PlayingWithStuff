@@ -1,3 +1,7 @@
 Copyright -> ALLEN X
 Time: Sun 2:53 PM
-And it's 2016! Aug!
+<<<<<<< HEAD
+And it's in 2016! Aug!
+=======
+And it's in 2016! Aug!
+>>>>>>> feature1
